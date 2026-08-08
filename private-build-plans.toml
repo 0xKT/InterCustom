@@ -13,7 +13,7 @@ g = "double-storey"
 y = "straight-turn-serifless"
 
 [buildPlans.KitanMono.weights.Regular]
-shape = 576
+shape = 400
 menu = 400
 css = 400
 
@@ -21,6 +21,11 @@ css = 400
 shape = 700
 menu = 700
 css = 700
+
+[buildPlans.KitanMono.widths.Normal]
+shape = 576
+menu = 5
+css = "normal"
 
 [buildPlans.KitanMono.slopes.Upright]
 angle = 0
